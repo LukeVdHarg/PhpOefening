@@ -6,7 +6,6 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Navbar</h1>
   <nav style="background-color:powderblue;">
     <ul>
       <li><a href="index.php">Home</a></li>

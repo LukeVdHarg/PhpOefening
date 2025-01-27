@@ -6,10 +6,10 @@
   <title>Document</title>
 </head>
 <body>
+  <?php include "navbar.php"; ?>
   <h1>Index</h1>
-  <?php include("navbar.php"); ?>
-  
 
-  <?php include("footer.php"); ?>
+
+  <?php include "footer.php"; ?>
 </body>
 </html>

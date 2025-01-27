@@ -6,10 +6,9 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Footer</h1>
   <footer>
     <p>Luke</p>
-    <p>Copyright</p>
+    <p>Copyright (ik heb geen echte copyright tekst)</p>
   </footer>
 </body>
 </html>
