@@ -7,10 +7,14 @@
 </head>
 <body>
 <form action="welcome_get.php" method="GET">
-  Name: <input id="Naam" type="text" name="Naam"><br>
-  E-mail: <input id="Email" type="text" name="Email"><br>
-  Bericht: <input id="Bericht" type="text" name="Bericht"><br>
-<input type="submit">
+  <label for="name">Naam</label><br>
+  <input id="name" type="text" name="name"><br>
+  <label for="email">E-mail</label><br>
+  <input id="email" type="text" name="email"><br>
+  <label for="message">Bericht</label><br>
+  <input id="message" type="text" name="message"><br>
+  <br>
+<button>Submit</button>
 </form>
 </body>
 </html>
