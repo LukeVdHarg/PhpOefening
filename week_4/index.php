@@ -6,13 +6,7 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>Opdrachten week 3</h1>
-
-  <h2>Opdracht 1</h2>
-  <?php include "randNum.php" ?>
-
-  <h2>Opdracht 2</h2>
-  <?php include "date.php" ?>
-  
+  <h1>Dobbelsteenspel</h1>
+  <?php include "dobbelsteen.php" ?>
 </body>
 </html>
